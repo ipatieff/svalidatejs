@@ -9,7 +9,12 @@ Features:
 3) You can changes settings for validate form
 
 You can see DEMO: http://s-validate.ipatieff.me/
-
+-------------------------------------------------
+Using npm:
+$ npm install svalidate
+-------------------------------------------------
+Using bower:
+$ bower install svalidate
 ____________________________________
 #Change log (v1.01)
 + fixed bugs
