@@ -10,10 +10,10 @@ Features:
 
 You can see DEMO: http://s-validate.ipatieff.me/
 ____________________________________
-Using bower:
+To install via Bower, simply do the following:
 $ bower install svalidate
 ____________________________________
-Using npm:
+To install via npm:
 $ npm install svalidate
 ____________________________________
 #Change log (v1.01)
