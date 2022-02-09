@@ -8,7 +8,6 @@ Features:
 
 3) You can changes settings for validate form
 
-You can see DEMO: http://s-validate.ipatieff.me/
 ____________________________________
 To install via Bower, simply do the following:<br/>
 `$ bower install svalidate`
